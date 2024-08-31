@@ -14,6 +14,9 @@ SPT / user / mods / GoLani-ItemTextureKoreanChange
 
 Please apply it so that it becomes a path like this.
 
+Before you start, run "Clean Temp File" in the launcher before you start, or the icon may not apply.
+
+
 You can use the source code freely if you just leave a comment and an address.
 
 
@@ -30,5 +33,8 @@ You can use the source code freely if you just leave a comment and an address.
 SPT 설치 파일 / user / mods / GoLani-ItemTextureKoreanChange
 
 이렇게 경로가 되도록 적용해주세요.
+
+시작하기 전 런처에서 임시 파일 삭제를 한 후 시작하세요. 그렇지 않으면 아이콘이 적용되지 않을 수 있습니다.
+
 
 댓글과 출처만 남겨주시면 자유롭게 소스 코드 활용하셔도 됩니다.
