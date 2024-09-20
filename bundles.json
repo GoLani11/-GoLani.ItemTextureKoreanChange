@@ -193,6 +193,81 @@
 			"_comment" : "물병",
             "key": "assets/content/weapons/usable_items/item_bottle/textures/client_assets.bundle",
             "dependencyKeys": []
+        },
+		{
+			"_comment" : "어그멘틴 항생제",
+            "key": "assets/content/weapons/usable_items/item_augmentin/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "차량용 응급 치료 키트--",
+            "key": "assets/content/weapons/usable_items/item_automedkit/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "군용 붕대",
+            "key": "assets/content/weapons/usable_items/item_bandage/item_bandage_army_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "무균 붕대",
+            "key": "assets/content/weapons/usable_items/item_bandage/item_bandage_med_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "아날긴 진통제",
+            "key": "assets/content/weapons/usable_items/item_blister/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "골든 스타 연고",
+            "key": "assets/content/weapons/usable_items/item_golden_star_balm/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "이부프로펜 진통제",
+            "key": "assets/content/weapons/usable_items/item_ibuprofen/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "CMS 수술키트",
+            "key": "assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "그리즐리 응급 치료 키트",
+            "key": "assets/content/weapons/usable_items/item_meds_grizly/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "CALOK-B 지혈제",
+            "key": "assets/content/weapons/usable_items/item_meds_hemostatic/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "살레와",
+            "key": "assets/content/weapons/usable_items/item_meds_salewa/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "바세린",
+            "key": "assets/content/weapons/usable_items/item_vaselin/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "AI-2 응급 치료 키트",
+            "key": "assets/content/weapons/usable_items/item_medkit/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "서바이벌 수술 키트",
+            "key": "assets/content/weapons/usable_items/item_meds_survival_first_aid_rollup_kit/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+		{
+			"_comment" : "CAT 지혈대",
+            "key": "assets/content/weapons/usable_items/item_meds_cat/textures/client_assets.bundle",
+            "dependencyKeys": []
         }
     ]
 }
